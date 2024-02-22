@@ -12,6 +12,10 @@ EditorBuildSettings:
     path: Assets/untitled.unity
     guid: 66fbee1b2b8fa8e4ca4bf78009431b33
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f3e228a72422c1c43857861c741f3937,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 6be50c5270394e947bebb115494b4358,
+      type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 7a0af75ae3e570049b21b9665851547b,
       type: 2}
     com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 3b93f8ba47820544ebbd326fee802bae,
