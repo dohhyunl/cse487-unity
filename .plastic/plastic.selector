@@ -1,0 +1,4 @@
+repository "MagicLeap2Demo2@dewonsunrise@cloud"
+  path "/"
+    br "/main"
+    co "/main"
