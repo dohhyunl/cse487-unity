@@ -11,6 +11,8 @@ public class PlanePrefabExample : MonoBehaviour
 
     private void Start()
     {
+        Debug.Log("PlanePrefabExample.Start");
+
         ColorClassify();
         Count++;
     }

@@ -40,6 +40,8 @@ public class PlaneExample : MonoBehaviour
 
     private IEnumerator Start()
     {
+        Debug.Log("PlaneExample.Start");
+
         mainCamera = Camera.main;
         yield return new WaitUntil(AreSubsystemsLoaded);
         planeManager = FindObjectOfType<ARPlaneManager>();
